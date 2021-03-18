@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Portfolio</title>
+    <link>https://frh02.github.io/FarhanRahman_Portfolio/post/</link>
+    <description>Recent content in Projects on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Mar 2020 12:00:00 -0500</lastBuildDate><atom:link href="https://frh02.github.io/FarhanRahman_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Predicting Faces with MASK</title>
+      <link>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-4/</link>
+      <pubDate>Tue, 21 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-4/</guid>
+      <description>This project has the following components:
+ A web application using Python and Flask Use of MongoDB and MySQL for data base management Creating a data base for the number of masks identified Login panel. Access to the application should require authentication. Storing the login details using MongoDB. Creating Data Base for history of the masks detected and the faces with masks on. Use of Amazon EC2 for hosting the website    Github Project Link</description>
+    </item>
+    
+    <item>
+      <title>Tutorial III: Fitting Machine Learning Model for data classification</title>
+      <link>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-3/</link>
+      <pubDate>Sat, 18 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-3/</guid>
+      <description>After implementing what we have learned in Chapter1 and Chapter2,let&amp;rsquo;s dive deep into the more advanced topics. We will be implementing machine learning models for classifying the unknown data as active or inactive, which is the class labels for data field Y in our dhfr data set. For this purpose we split the data into test and training set in a 20:80 split and then we use a cross validation model which skips one set of training values and apply the training model on the remaining set until all the values of the training set has been skipped once.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial II: Understand and Visualize the DATA</title>
+      <link>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-2/</link>
+      <pubDate>Mon, 13 Apr 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-2/</guid>
+      <description>After completing the Chapter 1, let&amp;rsquo;s explore more on how to Visualize the data. Understanding and visualizing the data is very important for anyone,even if you don&amp;rsquo;t to pursue a career in Data Engineering. Visualization and classification models that fits your data is one of the few things that we will be doing during this tutorial. Let&amp;rsquo;s dig in.
+1. Load the data set As I have already discussed in Chapter 1 on how to load the dataset, visualize and clean the data set , let&amp;rsquo;s do the same for this tutorial.</description>
+    </item>
+    
+    <item>
+      <title>Tutorial I: Clean the DATA</title>
+      <link>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-1/</link>
+      <pubDate>Thu, 09 Apr 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-1/</guid>
+      <description>Data Science is a culmination of different fields and one of the building blocks of becoming a Data Scientist is Data Analysis.This project deals with the most basic step of Data Analysis - Data Cleaning. Consider this as a walk through to learning R as well as Data Analysis.
+For this project, we consider the &amp;ldquo;dhfr&amp;rdquo; dataset which is available in RStudio cloud. Although you might have to use the following link dhfr, if you are using RStudio in your PC.</description>
+    </item>
+    
+  </channel>
+</rss>
