@@ -18,6 +18,16 @@
     </item>
     
     <item>
+      <title>Project 2: Prediction of Stock Price</title>
+      <link>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-5/</link>
+      <pubDate>Tue, 21 Jul 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-5/</guid>
+      <description>This project deals with up to date stock value trend in the 500 stock companies depending upon the different sectors we select for our analysis.I have used a very interesting package calle streamlit to host the python file as a web app.
+The web application deals with web-scraping where the data used for analysis is scraped from wikipedia and then the data has been grouped by the different sector we want to do the analysis on.</description>
+    </item>
+    
+    <item>
       <title>Tutorial III: Fitting Machine Learning Model for data classification</title>
       <link>https://frh02.github.io/FarhanRahman_Portfolio/post/chapter-3/</link>
       <pubDate>Sat, 18 Apr 2020 11:13:32 -0400</pubDate>
